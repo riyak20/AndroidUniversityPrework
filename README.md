@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 ## Notes
 
-Updating gradle dependencies to current Kotlin version within Android Studio
+Challenges: Updating gradle dependencies to current Kotlin version within Android Studio
 
 ## License
 
