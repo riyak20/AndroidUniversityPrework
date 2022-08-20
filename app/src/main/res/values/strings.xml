@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidUniversityPrework</string>
+    <string name="riya_intro">Hello World! My name is Riya and I am excited to learn about Android Development and create some apps with this little guy soon :)</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
